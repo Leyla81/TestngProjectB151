@@ -13,6 +13,6 @@ public class TC01_AramaKutusuTesti {
         Page page =new Page();
         page.aramakutusu.sendKeys("iphone", Keys.ENTER);
         Driver.closeDriver();
-
+//amazon sayfasına gidilip test edildi
     }
 }
